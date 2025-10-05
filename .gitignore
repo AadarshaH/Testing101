@@ -1,0 +1,22 @@
+# Dependencies
+/node_modules
+/frontend/node_modules
+
+# Generated files
+/users.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/dist
+/build
+
+# Environment variables
+.env
+.env.local
+
+# Large files
+large-asset.zip
